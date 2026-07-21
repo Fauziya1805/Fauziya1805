@@ -23,7 +23,7 @@ I thrive on meaningful interpersonal communication—I love listening to busines
 
 ## 📈 Featured Projects
 * **[Spotify Music Popularity & Audio Feature Analysis](https://github.com/Fauziya1805/spotify-music-popularity-eda):** Exploratory Data Analysis (EDA) evaluating 114k+ tracks to uncover audio feature correlations, popularity distributions, and genre drivers using Python.
-* **BI Case Study / Interactive Dashboard:** *Coming soon!*
+
 
 ---
 
