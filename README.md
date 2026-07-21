@@ -13,9 +13,17 @@ I thrive on meaningful interpersonal communication—I love listening to busines
 
 ---
 
+### 💼 Technical Toolkit & Expertise
+
+* **Analytics & Modeling:** Exploratory Data Analysis (EDA), Data Cleaning, KPI & Performance Tracking, Feature Analysis
+* **Tools & Languages:** Python (`pandas`, `seaborn`, `matplotlib`), SQL, Excel, Power BI
+* **Data Storytelling:** Executive Insights, Stakeholder Reporting, Interactive Dashboarding, Strategic Business Performance
+  
+ ---
+
 ## 📈 Featured Projects
-* **[KPMG Sprocket Sales Analysis](https://github.com/yusuffauziya074-jpg/KPMG_Sprocket_Sales_Analysis):** Interactive Power BI application analyzing customer profitability, seasonal demand trends, and core revenue drivers.
-* *More projects coming soon!*
+* **[Spotify Music Popularity & Audio Feature Analysis](https://github.com/Fauziya1805/spotify-music-popularity-eda):** Exploratory Data Analysis (EDA) evaluating 114k+ tracks to uncover audio feature correlations, popularity distributions, and genre drivers using Python.
+* **BI Case Study / Interactive Dashboard:** *Coming soon!*
 
 ---
 
