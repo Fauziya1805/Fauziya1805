@@ -9,14 +9,10 @@ Python (Pandas, NumPy, Matplotlib, Seaborn) · SQL · Power BI · Microsoft Exce
 
 ## Projects
 
-**[Online Retail Customer Analytics & Revenue Performance]<br>
-
-(https://github.com/Fauziya1805/online-retail-customer-analytics)**
+**[Online Retail Customer Analytics & Revenue Performance](https://github.com/Fauziya1805/online-retail-customer-analytics)**<br>
 End-to-end analysis with Python, SQL and Power BI. I analyzed £9.72M in revenue across 26,000 orders and found that the top 10 customers account for about 28% of revenue, a concentration risk that informed a loyalty-program recommendation.
 
-**[Spotify Music Popularity Analysis]<br>
-
-(https://github.com/Fauziya1805/spotify-music-popularity-eda)**
+**[Spotify Music Popularity Analysis](https://github.com/Fauziya1805/spotify-music-popularity-eda)**<br>
 Exploratory analysis of 114,000+ tracks. I found that 17.5% had a popularity score of zero, and that niche genres such as k-pop and chill outperformed broad mainstream genres.
 
 ## Connect
